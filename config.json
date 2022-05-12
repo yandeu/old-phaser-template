@@ -1,0 +1,7 @@
+{
+  "name": "Blue Bird",
+  "id": "com.example.blueBird",
+  "version": "1.0.0",
+  "orientation": "landscape",
+  "fullscreen": "true"
+}
